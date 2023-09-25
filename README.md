@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manav Shah</h1>
 <h3 align="center">A beginner developer from India</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and Python**
 
 - 📫 How to reach me **manavshahcol@gmail.com**
+
+- 📄 Know about my experiences [just a beginner but passionate about coding](just a beginner but passionate about coding)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
