@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Shah</h1>
-<h3 align="center">A beginner developer from Maharashtra,India</h3>
+<h3 align="center">A beginner developer from Maharashtra, India</h3>
 
 - 🌱 I’m currently learning **C++ and Python**
 
