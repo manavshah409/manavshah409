@@ -3,10 +3,10 @@
 
 ---
 
-- 🌱 I’m currently exploring **full-stack development**, backend integrations, and responsive UI/UX.
-- 🚀 Projects: [NexLearn](#), [Ambulance Booking System](#), [ClimaView](https://climaview-4g30.onrender.com)
-- 🎓 Passionate about learning, building, and solving real-world problems through tech.
-- 🎹 I’m also a trained **pianist** with certifications from Trinity College London and TEDx stage experience.
+- 🌱 I’m currently exploring **full-stack development**, backend integrations, and responsive UI/UX.  
+- 🚀 Projects: [NexLearn - Online Learning Platform](#)(working), [Ambulance Booking System](#)(working), [ClimaView](https://climaview-4g30.onrender.com)  
+- 🎓 Passionate about learning, building, and solving real-world problems through tech.  
+- 🎹 I’m also a trained **pianist** with certifications from Trinity College London and TEDx stage experience.  
 - 📫 Reach me at **manavshahcol@gmail.com**
 
 ---
