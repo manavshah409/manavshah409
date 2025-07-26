@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Manav Shah</h1>
-<h3 align="center">An aspiring developer from Gujarat, India</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Computer Engineering Student @ NMIMS | Gujarat, India</h3>
 
-- 📫 You can reach me at **manavshahcol@gmail.com**
+---
 
-- 🧠 I’m passionate about learning, building, and growing in the world of development
+- 🌱 I’m currently exploring **full-stack development**, backend integrations, and responsive UI/UX.
+- 🚀 Projects: [NexLearn](#), [Ambulance Booking System](#), [ClimaView](https://climaview-4g30.onrender.com)
+- 🎓 Passionate about learning, building, and solving real-world problems through tech.
+- 🎹 I’m also a trained **pianist** with certifications from Trinity College London and TEDx stage experience.
+- 📫 Reach me at **manavshahcol@gmail.com**
 
-- 📄 Know more about me: *Just a beginner but passionate about coding*
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -47,8 +50,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL / SQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
 
+---
 
+<h3 align="left">✨ GitHub Stats</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manavshah&show_icons=true&theme=tokyonight&hide_title=true" alt="Manav's GitHub stats" />
+</p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavshah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+> “Learning by doing” is how I grow — whether it's web development, backend systems, data dashboards, or performing on stage.
